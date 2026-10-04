@@ -1,0 +1,6 @@
+{
+  "name": "Kalahari Dental",
+  "description": "AI Mobile Dental Clinic for Rwanda connecting patients with dentists, geography clinic locator with live navigation, MoMo digital payments, and medical history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
